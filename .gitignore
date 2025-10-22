@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env/IDE
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# ComfyUI node extras (si algún día los generas)
+custom_nodes/**/dist/
+custom_nodes/**/build/
