@@ -1,5 +1,7 @@
-﻿# CLSM_SimplePathFormatter.py
-# Node: CLSM/Utilidades - Simple Path Formatter (with optional date prefix)
+﻿# MIT License
+# Copyright (c) 2025 CLSM - César Luis Sard (ComfyUI Daily)
+# Node: CLSM/Utilidades - Simple Path Formatter
+# Version: 0.1.0
 
 import os
 from datetime import datetime

@@ -1,3 +1,7 @@
+/* MIT License
+Copyright (c) 2025 CLSM - César Luis Sard (ComfyUI Daily)
+Node: CLSM/Utilidades - Simple Path Formatter
+Version: 0.1.0 */
 import { app } from "../../../scripts/app.js";
 import { ComfyWidgets } from "../../../scripts/widgets.js";
 
